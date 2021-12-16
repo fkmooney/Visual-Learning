@@ -1,0 +1,3 @@
+If Processing script has dependencies or python modules that it calls, you may need to copy them from VIllares folder (also forked on github) and add to folder where script is. 
+
+As long as there is a copy of the imported script in the same folder as  the running script, it will should work.
