@@ -8,11 +8,11 @@ Here are listed some of the tools I have been using:
 
 ---
 
-![sketch_2021_12_06a](2021/sketch_2021_12_06a/sketch_2021_12_06a.png)
+![sketch_201109a](2021/sketch_201109a/output.png)
 
-[sketch_2021_12_06a](https://github.com/villares/sketch-a-day/tree/master/2021/sketch_2021_12_06a) [[Py.Processing](https://villares.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_201109a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201109a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-158 triangle pairs on a 3x3 grid with all edges parallel to another edge fo the pair
+Test of showing image in gallery
 
 ---
 
