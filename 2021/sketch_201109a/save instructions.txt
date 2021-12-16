@@ -1,0 +1,1 @@
+shift+cntrl+alt + prtnscr = displayed window copied, then paste into Paint
