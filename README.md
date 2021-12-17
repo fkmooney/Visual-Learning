@@ -136,6 +136,11 @@ Test2 of showing image in gallery
 
 ---
 
+![Processing Sketch - Joy Division Blob](2021/Processing Sketch - Joy Division Blob//sketch_191008a/output/20210408_155350_sketch_191008a_1138_0001.png)
+
+[Processing Sketch - Joy Division Blob](https://github.com/fkmooney/visual-learning/tree/master/2021/Processing Sketch - Joy Division Blob) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
 
 
