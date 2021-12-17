@@ -6,9 +6,9 @@ This is a collection of images I've generated while learning how to code visuali
 
 ---
 
-![sketch_191008b](2021/sketch_191008b/savee6r1.jpg.png)
+![sketch_191008bc](2021/sketch_191008bc/savee6r1.jpg.png)
 
-[sketch_191008b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_191008bc](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008bc) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
