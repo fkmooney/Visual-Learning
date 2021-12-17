@@ -4,6 +4,9 @@
 
 This is a collection of images I've generated while learning how to code visualizations. Some are based on tutorials or works of others to figure out certain concepts, others are original.
 
+Materials: line, curves, shapes, colors, inputs (photos)
+Tools: tiling, displacement, repetition, recursion, algorithms
+
 ---
 
 ![sketch_191008bc](2021/sketch_191008bc/savee6r1.jpg)
