@@ -52,10 +52,21 @@ Test2 of showing image in gallery
 
 ---
 
+![sketch_2018s262__diff_size](2021/sketch_2018s262__diff_size/2678.png)
+
+[sketch_2018s262__diff_size](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_2018s262__diff_size) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_2020_03_08b](2021/sketch_2020_03_08b/0764.png)
+
+[sketch_2020_03_08b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_2020_03_08b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
 
 
 
 
 
-
+sketch_2020_03_08b
