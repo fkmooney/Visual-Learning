@@ -169,7 +169,7 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191008g](2021/sketch_191008g/0001.png)
+![sketch_191008g](2021/sketch_191008g/20191011_101555_concentric_wobble_175_0004.png)
 
 [sketch_191008g](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008g) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
