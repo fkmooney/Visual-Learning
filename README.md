@@ -70,13 +70,28 @@ Test2 of showing image in gallery
 
 ---
 
-![sketch_210124c](2021/sketch_210124c/177.png)
+![sketch_210124c](2021/sketch_210124c/202.png)
 
 [sketch_210124c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_210124c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
+![sketch_210416___moving](2021/sketch_210416___moving/199.png)
+
+[sketch_210416___moving](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_210416___moving) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_210920](2021/sketch_210920/1061.png)
+
+[sketch_210920](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_210920) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211029a](2021/sketch_211029a/a.png)
+
+[sketch_211029a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211029a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
 
-
-sketch_210124c
