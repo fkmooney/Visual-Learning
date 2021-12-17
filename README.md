@@ -10,7 +10,7 @@ This is a collection of images I've generated while learning how to code visuali
 
 [sketch_201109a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201109a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Test of showing image in gallery
+Based on work by Alexandre B A Villares
 
 ---
 
@@ -18,13 +18,13 @@ Test of showing image in gallery
 
 [sketch_201118a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201118a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Test2 of showing image in gallery
-
 ---
 
 ![sketch_201129a](2021/sketch_201129a/sketch_201129a.png)
 
 [sketch_201129a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+Based on work by Sol LeWitt
 
 ---
 
@@ -62,11 +62,15 @@ Test2 of showing image in gallery
 
 [sketch_2020_03_08b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_2020_03_08b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+Based on work by Alexandre B A Villares
+
 ---
 
 ![sketch_2021_12_06a](2021/sketch_2021_12_06a/sketch_2021_12_06a.png)
 
 [sketch_2021_12_06a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_2021_12_06a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+Based on work by Alexandre B A Villares
 
 ---
 
@@ -134,11 +138,16 @@ Test2 of showing image in gallery
 
 [sketch_211209font](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209font) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+Based on work by Mike Joyce
+
 ---
 
 ![sketch_191008a](2021/sketch_191008a/output/001.png)
 
 [sketch_191008a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+
+Based on work by Aaron Penne
 
 ---
 
