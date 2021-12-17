@@ -187,19 +187,13 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191008k](2021/sketch_191008k/output/1.png)
-
-[sketch_191008k](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008k) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
-
----
-
 ![sketch_191008m](2021/sketch_191008m/output/20211114_170730_fuzz_4843_0051.png)
 
 [sketch_191008m](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008m) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
-![sketch_191008n](2021/sketch_191008n/1.png)
+![sketch_191008n](2021/sketch_191008n/worm.png)
 
 [sketch_191008n](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008n) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
