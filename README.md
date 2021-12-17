@@ -34,7 +34,7 @@ Test2 of showing image in gallery
 
 ---
 
-![sketch_201129c](2021/sketch_201129b/sketch_201129c.png)
+![sketch_201129c](2021/sketch_201129c/sketch_201129c.png)
 
 [sketch_201129c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
