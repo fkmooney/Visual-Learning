@@ -1,3 +1,5 @@
+// in java
+
 int seed = int(random(999999));
 
 void setup() {
