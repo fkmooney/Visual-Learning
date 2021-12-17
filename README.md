@@ -10,7 +10,7 @@ This is a collection of images I've generated while learning how to code visuali
 
 [sketch_211217b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211217b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Based on work by Alexandre B A Villares
+Based on work by Josef Albers
 
 ---
 ![sketch_201109a](2021/sketch_201109a/output.png)
