@@ -154,10 +154,51 @@ Test2 of showing image in gallery
 
 ---
 
+![sketch_191008c](2021/sketch_191008c/20191008_224114_yarn_1171989_0001.png)
 
+[sketch_191008c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+---
 
+![sketch_191008g](2021/sketch_191008g/0001.png)
 
+[sketch_191008g](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008g) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+---
 
+![sketch_191008i](2021/sketch_191008i/output/20210408_155350_sketch_191008a_1138_0001.png)
+
+[sketch_191008i](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008i) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191008j](2021/sketch_191008j/output/20191008_164630_circlish_circle_1138_0121.png)
+
+[sketch_191008j](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008j) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191008k](2021/sketch_191008k/output/1.png)
+
+[sketch_191008k](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008k) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191008m](2021/sketch_191008m/output/20211114_170730_fuzz_4843_0051.png)
+
+[sketch_191008m](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008m) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191008n](2021/sketch_191008n/1.png)
+
+[sketch_191008n](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008n) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191010a](2021/sketch_191010a/test.jpg)
+
+[sketch_191010a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191010a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
