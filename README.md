@@ -217,7 +217,7 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191010f](2021/sketch_191010f/1.jpg)
+![sketch_191010f](2021/sketch_191010f/bleed_grids.png)
 
 [sketch_191010f](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191010f) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
