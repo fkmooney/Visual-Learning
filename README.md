@@ -100,16 +100,41 @@ Test2 of showing image in gallery
 
 ---
 
-![sketch_211206b](2021/sketch_211206b/combos.png)
+![sketch_211208km___simple_polygon](2021/sketch_211208km___simple_polygon/output_30.png)
 
-[sketch_211206b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211206b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211208km___simple_polygon](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211208km___simple_polygon) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
+![sketch_211209a](2021/sketch_211209a/0289.png)
 
+[sketch_211209a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+---
 
+![sketch_211209b](2021/sketch_211209b/0323.png)
 
+[sketch_211209b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211209c](2021/sketch_211209c/0260.png)
+
+[sketch_211209c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211209d](2021/sketch_211209d/1802.png)
+
+[sketch_211209d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211209font](2021/sketch_211209font/3611.png)
+
+[sketch_211209font](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209font) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
 
 
