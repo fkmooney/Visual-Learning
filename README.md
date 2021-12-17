@@ -136,12 +136,23 @@ Test2 of showing image in gallery
 
 ---
 
-![sketch_191008a](2021/sketch_191008a/output/concentric_15_07_2.png)
+![sketch_191008a](2021/sketch_191008a/output/001.png)
 
 [sketch_191008a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
+![sketch_191008b](2021/sketch_191008b/0014.png)
+
+[sketch_191008b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_191008bv2](2021/sketch_191008bv2/0014.png)
+
+[sketch_191008bv2](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008bv2) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
 
 
 
