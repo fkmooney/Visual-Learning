@@ -1,7 +1,8 @@
-//Raven Kwok | 郭锐文
+//Raven Kwok
 //Email: raystain@gmail.com
 //Blog: the-moor.blogbus.com
 //Weibo: weibo.com/ravenkwok
+// in java
 
 int cols, rows;
 int cellsize;
