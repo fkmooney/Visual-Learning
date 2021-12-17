@@ -87,6 +87,13 @@ Based on work by Alexandre B A Villares
 
 ---
 
+![sketch_211209ac](2021/sketch_211209ac/combos.png)
+
+[sketch_211209ac](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211209ac) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+
+---
+
 ![sketch_210124c](2021/sketch_210124c/202.png)
 
 [sketch_210124c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_210124c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
