@@ -2,9 +2,7 @@
 
 #### a gallery of images generated through learning code
 
-This is a collection of images I've generated while learning how to code visualizations. Some are based on tutorials or works of others to figure out certain concepts, others are original
-
-Here are listed some of the tools I have been using:
+This is a collection of images I've generated while learning how to code visualizations. Some are based on tutorials or works of others to figure out certain concepts, others are original.
 
 ---
 
@@ -27,5 +25,17 @@ Test2 of showing image in gallery
 ![sketch_201129a](2021/sketch_201129a/sketch_201129a.png)
 
 [sketch_201129a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_201129b](2021/sketch_201129b/sketch_201129b.png)
+
+[sketch_201129b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_201129c](2021/sketch_201129b/sketch_201129c.png)
+
+[sketch_201129c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
