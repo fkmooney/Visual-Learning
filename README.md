@@ -211,7 +211,7 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191010d](2021/sketch_191010d/disney_grids.jpg)
+![sketch_191010d](2021/sketch_191010d/disney_grids.png)
 
 [sketch_191010d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191010d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
