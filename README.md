@@ -39,3 +39,17 @@ Test2 of showing image in gallery
 [sketch_201129c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201129c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
+
+![sketch_2018_s247](2021/sketch_2018_s247/4314.png)
+
+[sketch_2018_s247](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_2018_s247) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+
+
+
+
+
+
+
