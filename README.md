@@ -157,7 +157,7 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191008bv2](2021/sketch_191008bv2/0014.png)
+![sketch_191008bv2](2021/sketch_191008bv2/yarn.png)
 
 [sketch_191008bv2](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008bv2) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
