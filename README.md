@@ -136,9 +136,9 @@ Test2 of showing image in gallery
 
 ---
 
-![Processing Sketch - Joy Division Blob](2021/Processing Sketch - Joy Division Blob//sketch_191008a/output/20210408_155350_sketch_191008a_1138_0001.png)
+![sketch_191008a](2021/sketch_191008a/output/concentric_15_07_2.png)
 
-[Processing Sketch - Joy Division Blob](https://github.com/fkmooney/visual-learning/tree/master/2021/Processing Sketch - Joy Division Blob) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_191008a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
