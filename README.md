@@ -223,7 +223,7 @@ Based on work by Aaron Penne
 
 ---
 
-![sketch_191010h](2021/sketch_191010h/1.jpg)
+![sketch_191010h](2021/sketch_191010h/ghosts.png)
 
 [sketch_191010h](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191010h) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
