@@ -1,3 +1,5 @@
+//this is in java - creates white lines following cursor on black background
+
 float thold = 5;
 float spifac = 1.05;
 int outnum;
