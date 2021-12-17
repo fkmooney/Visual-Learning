@@ -94,4 +94,29 @@ Test2 of showing image in gallery
 
 ---
 
+![sketch_211130b](2021/sketch_211130b/pentagons_on_3x3.png)
+
+[sketch_211130b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211130b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211206b](2021/sketch_211206b/combos.png)
+
+[sketch_211206b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211206b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
