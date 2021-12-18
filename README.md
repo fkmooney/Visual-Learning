@@ -13,6 +13,8 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211217bd](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211217bd) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+Tiling technique initally utilized on Commodore 64
+
 ---
 
 ![sketch_191008bc](2021/sketch_191008bc/savee6r1.jpg)
