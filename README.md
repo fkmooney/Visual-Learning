@@ -57,6 +57,7 @@ Tiling technique initally utilized on Commodore 64
 
 [sketch_191008bc](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008bc) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+Based off of Frieder Nake's Geradenscharen. More at http://dada.compart-bremen.de/
 ---
 
 ![sketch_211217b](2021/sketch_211217b/frames/0004.png)
