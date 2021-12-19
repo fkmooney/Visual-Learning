@@ -9,6 +9,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+![sketch_211219d](2021/sketch_211219d/000000628.png)
+
+[sketch_211219d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+Based on a work by Berin. More available at https://berinhard.github.io/sketches/ 
+
+---
+
 ![sketch_211219c](2021/sketch_211219c/313.png)
 
 [sketch_211219c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
