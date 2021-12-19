@@ -13,7 +13,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211217be](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211217be) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Tiling technique initally utilized on Commodore 64
+Recreating the Joy Division album cover Unknown Pleasures (1979) which in turn was based on a graphical display of pulses from the first pulsar discovered
 
 ---
 
