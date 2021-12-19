@@ -9,6 +9,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+![sketch_211219b](2021/sketch_211219b/607.png)
+
+[sketch_211219b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+Based on Georg Nees' work Cubic Disarray
+
+---
+
 ![sketch_211219a](2021/sketch_211219a/0771.png)
 
 [sketch_211219a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
