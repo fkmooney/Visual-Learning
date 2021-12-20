@@ -9,6 +9,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+![sketch_211219e](2021/sketch_211219e/000000376.png)
+
+[sketch_211219e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+Based off of Frieder Nake's Geradenscharen. More at http://dada.compart-bremen.de/
+
+---
+
 ![sketch_211219d](2021/sketch_211219d/000000628.png)
 
 [sketch_211219d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211219d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
@@ -66,7 +74,6 @@ Tiling technique initally utilized on Commodore 64
 
 [sketch_191008bc](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_191008bc) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Based off of Frieder Nake's Geradenscharen. More at http://dada.compart-bremen.de/
 
 ---
 
