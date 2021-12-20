@@ -51,12 +51,17 @@ Based on Georg Nees' work Cubic Disarray
 
 [sketch_211217bfb](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211217bfb) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-
 ---
 
 ![sketch_211217be](2021/sketch_211217be/0106.png)
 
 [sketch_211217be](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211217be) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211220b](2021/sketch_211220b/4142.png)
+
+[sketch_211220b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211220b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 Playing with the Joy Division album cover Unknown Pleasures (1979) which was based on a graphical display of pulses from the first pulsar discovered
 
