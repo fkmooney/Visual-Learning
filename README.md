@@ -13,7 +13,6 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211224b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211224b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Based off of Frieder Nake's Geradenscharen. More at http://dada.compart-bremen.de/
 
 ---
 
