@@ -13,7 +13,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211225a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211225a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Based om the work of Josef Albers
+Based on the work of Josef Albers, includes code for saving as vector file (or SVG)
 
 ---
 
@@ -21,7 +21,7 @@ Based om the work of Josef Albers
 
 [sketch_211224c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211224c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-Based om the work of Mark Rothko
+Based on the work of Mark Rothko
 
 ---
 
