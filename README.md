@@ -13,6 +13,29 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211228a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
+---
+
+![sketch_211228e(2021/sketch_211228e/blue.png)
+
+[sketch_211228e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211228c](2021/sketch_211228c/00215.png)
+
+[sketch_211228c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211228b](2021/sketch_211228b/000001813.png)
+
+[sketch_211228b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+---
+
+![sketch_211228a](2021/sketch_211228a/combo.png)
+
+[sketch_211228a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 
 ---
