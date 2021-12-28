@@ -7,15 +7,10 @@ This is a collection of images I've generated while learning how to code visuali
 Materials: line, curves, shapes, colors, inputs (photos)
 Tools: tiling, displacement, repetition, recursion, algorithms
 
----
-
-![sketch_211228a](2021/sketch_211228a/combo.png)
-
-[sketch_211228a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 ---
 
-![sketch_211228e(2021/sketch_211228e/blue.png)
+![sketch_211228e](2021/sketch_211228e/blue.png)
 
 [sketch_211228e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
