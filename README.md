@@ -152,7 +152,8 @@ Tiling technique initally utilized on Commodore 64
 Based on work by Josef Albers
 
 ---
-![sketch_201109a](2021/sketch_201109a/output.png)
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_201109a/output.png" width="600" height="600">
 
 [sketch_201109a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_201109a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
