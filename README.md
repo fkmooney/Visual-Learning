@@ -7,13 +7,43 @@ This is a collection of images I've generated while learning how to code visuali
 Materials: line, curves, shapes, colors, inputs (photos)
 Tools: tiling, displacement, repetition, recursion, algorithms
 
+---
 
+![sketch_211230e](2021/sketch_211230e/combo.png)
+
+[sketch_211230e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+based on work by Athos Bulcão
 
 ---
 
-![sketch_211228d](2021/sketch_211228d/combo.png)
+![sketch_211230d](2021/sketch_211230d/combo.png)
 
-[sketch_211228d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211230d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+based on work by Alexander Calder
+
+---
+
+![sketch_211230c](2021/sketch_211230c/cover.png)
+
+[sketch_211230c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+based on work by Alexander Calder
+
+---
+
+![sketch_211230b](2021/sketch_211230b/cover.png)
+
+[sketch_211230b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+
+based on work by Alexander Calder
+
+---
+
+![sketch_211230a](2021/sketch_211230a/000000002.png)
+
+[sketch_211230a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
 variactions on an earlier theme
 
