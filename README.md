@@ -21,7 +21,7 @@ based on work by Athos Bulcão
 
 [sketch_211230d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-based on work by Alexander Calder
+based on work by Bernardo Fontes
 
 ---
 
@@ -29,7 +29,6 @@ based on work by Alexander Calder
 
 [sketch_211230c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-based on work by Alexander Calder
 
 ---
 
@@ -45,7 +44,7 @@ based on work by Alexander Calder
 
 [sketch_211230a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-variactions on an earlier theme
+variations on an earlier theme
 
 ---
 
@@ -53,7 +52,7 @@ variactions on an earlier theme
 
 [sketch_211228d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
 
-variactions on an earlier theme
+variations on an earlier theme
 
 ---
 
