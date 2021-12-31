@@ -20,14 +20,13 @@ Book cover for a limited run title.
 
 ![sketch_211231a](2021/sketch_211231a/output2.png)
 
-[sketch_211231a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211231a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
-
+[sketch_211231a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211231a) 
 
 ---
 
 ![sketch_211230e](2021/sketch_211230e/combo.png)
 
-[sketch_211230e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211230e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230e)
 
 based on work by Athos Bulcão
 
@@ -35,7 +34,7 @@ based on work by Athos Bulcão
 
 ![sketch_211230d](2021/sketch_211230d/combo.png)
 
-[sketch_211230d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211230d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230d) 
 
 based on work by Bernardo Fontes
 
@@ -50,7 +49,7 @@ based on work by Bernardo Fontes
 
 ![sketch_211230b](2021/sketch_211230b/cover.png)
 
-[sketch_211230b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211230b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230b) 
 
 based on work by Alexander Calder
 
@@ -58,7 +57,7 @@ based on work by Alexander Calder
 
 ![sketch_211230a](2021/sketch_211230a/000000002.png)
 
-[sketch_211230a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211230a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211230a) 
 
 variations on an earlier theme
 
@@ -66,7 +65,7 @@ variations on an earlier theme
 
 ![sketch_211228d](2021/sketch_211228d/combo.png)
 
-[sketch_211228d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228d) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211228d](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228d) 
 
 variations on an earlier theme
 
@@ -74,31 +73,31 @@ variations on an earlier theme
 
 ![sketch_211228b](2021/sketch_211228b/000001813.png)
 
-[sketch_211228b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228b) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211228b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228b) 
 
 ---
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211228c/00215.png" width="600" height="600">
 
-[sketch_211228c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228c) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211228c](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228c) 
 
 ---
 
 ![sketch_211228e](2021/sketch_211228e/blue.png)
 
-[sketch_211228e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228e) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211228e](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228e) 
 
 ---
 
 ![sketch_211228a](2021/sketch_211228a/combo.png)
 
-[sketch_211228a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211228a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211228a) 
 
 
 ---
 
 ![sketch_211225a](2021/sketch_211225a/0260.png)
 
-[sketch_211225a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211225a) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
+[sketch_211225a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211225a) 
 
 Based on the work of Josef Albers, includes code for saving as vector file (or SVG)
 
