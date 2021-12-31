@@ -11,8 +11,6 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/Book Cover Generator/Cover w image/Book_Jacket.jpg" width="700" >
 
-[Book Cover Generator](https://github.com/fkmooney/visual-learning/tree/master/2021/Book Cover Generator) [[Py.Processing](https://fkmooney.github.io/como-instalar-o-processing-modo-python/index-EN)]
-
 Book cover for a limited run title.
 
 ---
