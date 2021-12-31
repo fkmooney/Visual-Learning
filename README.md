@@ -9,6 +9,12 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211231b/Book_Jacket.jpg" width="700" >
+
+[sketch_211231b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211231b) 
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/Book Cover Generator/Cover w image/Book_Jacket.jpg" width="700" >
 
 [Book Cover Generator](https://github.com/fkmooney/visual-learning/tree/master/2021/Book%20Cover%20Generator) 
