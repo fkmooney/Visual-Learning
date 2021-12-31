@@ -13,6 +13,23 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_211231b](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_211231b) 
 
+Tryign to do something similar to: 
+https://www.instagram.com/p/CXRURbmr-Av/
+https://www.instagram.com/p/CYHZNxyr6Rl/
+https://www.instagram.com/p/CWn66Nxr129/
+https://www.instagram.com/p/CWYjl8Pr4gj/
+https://www.instagram.com/p/CWOTTH7rwuL/
+https://www.instagram.com/p/CWLjiVZriZI/
+https://www.instagram.com/p/CUC_OTXLZTJ/
+https://www.instagram.com/p/CTXZ8diL2CA/
+https://www.instagram.com/p/CTKjGpALnS7/
+https://www.instagram.com/p/CSzM4ErLNef/
+https://www.instagram.com/p/CRZEBlABqAL/
+https://www.instagram.com/p/CRT-o_6hhHR/
+https://www.instagram.com/p/COlFpvFB3CF/
+https://www.instagram.com/p/CN70BxJBrnL/
+https://www.instagram.com/p/CNc7Lp9hWPu/
+
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/Book Cover Generator/Cover w image/Book_Jacket.jpg" width="700" >
