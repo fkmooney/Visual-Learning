@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220102a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_220102a) 
 
-A revised over design
+A revised cover design
 
 ---
 
@@ -25,6 +25,6 @@ A revised over design
 
 [sketch_220101a](https://github.com/fkmooney/visual-learning/tree/master/2021/sketch_220101a) 
 
-A revised over design
+A revised cover design
 
 ---
