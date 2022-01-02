@@ -21,7 +21,7 @@ A revised cover design
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/Book_Jacket.jpg" width="700" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/Book_Jacket_orange.jpg" width="700" >
 
 [sketch_220102a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220102a) 
 
