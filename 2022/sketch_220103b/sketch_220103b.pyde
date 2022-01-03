@@ -1,3 +1,5 @@
+# note there is an issue with save frame due to 3d nature
+
 def quarter(tam, ln):
     
     for x in range(0, width/2, tam):
@@ -80,4 +82,5 @@ def draw():
     noLoop()
 
 def keyPressed():
+    # there is an issue with 3D and save frame. Villares may have a work around in 2018 s203.pyde
     saveFrame("output.png")
