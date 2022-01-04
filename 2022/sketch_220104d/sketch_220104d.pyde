@@ -1,7 +1,8 @@
 def setup():
+    blendMode(ADD) # this allows blending to go to balck or white (use MULTIPLY)
     size(600,600)
-    colorMode(HSB,360,100,100,100)
-    background(0,0,96.078431)
+    
+    background(0)
     noStroke()
     
 def draw():
@@ -12,13 +13,13 @@ def draw():
         for y in range(0, height, tam):
             with pushMatrix():
                 translate(x,y)
-                fill(0,100,100,40)
+                fill(255,0,0,220)
                 circle(0,-3,(2*x+2*y+600)/tam)
 
-                fill(120,100,100,40)
+                fill(0,255,0,220)
                 circle(-3,3,(2*x+2*y+600)/tam)    
                 
-                fill(240,100,100,40)
+                fill(0,0,255,220)
                 circle(3,3,(2*x+2*y+600)/tam)
     
 
