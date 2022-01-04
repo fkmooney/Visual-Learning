@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220104d/output.png" width="600" >
+
+[sketch_220104d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220104d) 
+
+Playing with additive color and color theory
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220104a/Book_Jacket.jpg" width="700" >
 
 [sketch_220104a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220104a) 
@@ -41,6 +49,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220103b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220103b) 
 
+Playing with perspective and three dimensions
 
 ---
 
