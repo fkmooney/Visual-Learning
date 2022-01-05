@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220105a/output.png" width="600" >
+
+[sketch_220105a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105a) 
+
+Using python's map function to iterate over large grids
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220104e/Book_Jacket.jpg" width="700" >
 
 [sketch_220104e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220104e) 
