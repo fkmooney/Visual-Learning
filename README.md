@@ -13,6 +13,46 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220106c/output.png" width="600" >
+
+[sketch_220106c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106c) 
+
+Using python's map function to iterate over large grids
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220106b/output.png" width="600" >
+
+[sketch_220106b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106b) 
+
+Using python's map function to iterate over large grids
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220106a/output.png" width="600" >
+
+[sketch_220106a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106a) 
+
+Using python's map function to iterate over large grids
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220105f/output.png" width="600" >
+
+[sketch_220105f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105f) 
+
+Using python's map function to iterate over large grids
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220105e/output.png" width="600" >
+
+[sketch_220105e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105e) 
+
+Using python's map function to iterate over large grids
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220105c/Book_Jacket.jpg" width="700" >
 
 [sketch_220105c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105c) 
