@@ -17,7 +17,6 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220106c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106c) 
 
-Using python's map function to iterate over large grids
 
 ---
 
@@ -25,7 +24,14 @@ Using python's map function to iterate over large grids
 
 [sketch_220106b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106b) 
 
-Using python's map function to iterate over large grids
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220105f/output2.png" width="600" >
+
+[sketch_220105f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105f) 
+
+Variation using previous code, inspired by Vera Molnár
 
 ---
 
@@ -33,7 +39,6 @@ Using python's map function to iterate over large grids
 
 [sketch_220106a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106a) 
 
-Using python's map function to iterate over large grids
 
 ---
 
@@ -41,7 +46,6 @@ Using python's map function to iterate over large grids
 
 [sketch_220105f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105f) 
 
-Using python's map function to iterate over large grids
 
 ---
 
@@ -49,7 +53,6 @@ Using python's map function to iterate over large grids
 
 [sketch_220105e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220105e) 
 
-Using python's map function to iterate over large grids
 
 ---
 
