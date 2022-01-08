@@ -17,6 +17,8 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220108c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108c) 
 
+Playing with blur against hard edges
+
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108b/output.png" width="600" >
