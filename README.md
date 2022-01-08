@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220108a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108a) 
 
-Inspired by Agnes Martin
+Inspired by James Hugonin
 
 ---
 
