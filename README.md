@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108e/output.png" width="600" >
+
+[sketch_220108e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108e) 
+
+Inspired by Agnes Martin's Happy Holidays (1999)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108c/output.png" width="600" >
 
 [sketch_220108c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108c) 
