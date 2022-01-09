@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108f/output.png" width="600" >
+
+[sketch_220108f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108f) 
+
+Inspired by Agnes Martin's Bud (1959)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108e/output.png" width="600" >
 
 [sketch_220108e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108e) 
