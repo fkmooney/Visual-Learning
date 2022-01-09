@@ -99,6 +99,7 @@ More silliness, heat on a screen
 
 [sketch_220106d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220106d) 
 
+Inspired by Vera Molnár Unimaginable Images 1978 (http://recodeproject.com/)
 
 ---
 
