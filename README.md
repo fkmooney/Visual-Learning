@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="600" >
+
+[sketch_220109b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220109b) 
+
+Inspired by Vera Molnár's Homage to Dürer 1990, 1-1 (1990)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109a/output.png" width="600" >
+
+[sketch_220109a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220109a) 
+
+Inspired by Vera Molnár's Homage to Dürer 400 Needles Crossed by a Thread (1989)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108f/output.png" width="600" >
 
 [sketch_220108f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220108f) 
