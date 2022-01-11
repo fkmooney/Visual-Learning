@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="600" >
+
+[sketch_220110a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220110a) 
+
+Creatign ragged edged rectangles
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="600" >
 
 [sketch_220109b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220109b) 
