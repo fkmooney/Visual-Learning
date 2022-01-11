@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220110a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220110a) 
 
-Creatign ragged edged rectangles
+Creating ragged edged rectangles, a cross beteween Malevich and Matisse
 
 ---
 
