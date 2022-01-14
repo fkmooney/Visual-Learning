@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220114a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220114a) 
 
-And a pointalism version
+Adding a threshold option to allow for more flexibility in line drawing
 
 ---
 
