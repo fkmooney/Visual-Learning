@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220114a/output.png" width="600" >
+
+[sketch_220114a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220114a) 
+
+And a pointalism version
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220113c/output.png" width="600" >
 
 [sketch_220113c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220113c) 
