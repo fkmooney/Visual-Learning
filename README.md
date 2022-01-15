@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220114a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220114a) 
 
-Adding a threshold option to allow for more flexibility in line drawing
+Adding a threshold option to allow for more flexibility in line drawing <br>
 May want to exporeusing deep learning to generate bw input, something similar to https://github.com/vijishmadhavan/ArtLine
 
 ---
