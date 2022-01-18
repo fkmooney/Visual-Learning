@@ -18,7 +18,8 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220118a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220118a) 
 
-Trying out a different approach using PIL and Python
+Trying out a different approach using PIL and Python.
+Can use output from one as input for the other.
 
 ---
 
