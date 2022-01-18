@@ -17,7 +17,7 @@ no_cv = False
 draw_contours = True  # draws outlines
 draw_hatch = False  # adds shading using cross hatching
 hatch_size = 16
-show_bitmap = False
+show_bitmap = True  # show preview
 
 try:
     import numpy as np
@@ -191,11 +191,12 @@ def sketch(path):
         lines += hatch(IM.resize((resolution//hatch_size,resolution//hatch_size*h//w)),hatch_size)
 
     lines = sortlines(lines)
+    #### below creates png image
     if show_bitmap:
         disp = Image.new("RGB",(resolution,resolution*h//w),(255,255,255))
         draw = ImageDraw.Draw(disp)
         for l in lines:
-            draw.line(l,(0,0,0),5) 
+            draw.line(l,(0,0,0),0)  # bitmap output line width is last number
         disp.show()
 
     f = open(export_path,'w')
