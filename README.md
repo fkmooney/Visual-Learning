@@ -13,6 +13,20 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119b/output.png" width="600" >
+
+[sketch_220119b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220119b) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119a/output.png" width="600" >
+
+[sketch_220119a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220119a) 
+
+Pixelated Avedon portrait inspired by Alexandre B A Villares
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220118a/Photo_to_line_drawing/output/output.svg" width="600" height="600">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220118a/Photo_to_line_drawing/output/corner.png" width="600" >
 
