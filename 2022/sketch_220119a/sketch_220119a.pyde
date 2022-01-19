@@ -16,7 +16,7 @@ def draw():
     for x in range(0, width, resolution):  
         for y in range(0, height, resolution):
             xc, yc = resolution / 2 + x, resolution / 2 + y
-            cor = img.get(xc, yc)
+            cor = img.get(xc, yc) # reads the color of the pixel at the designated coord
             dark = 255 - brightness(cor)  # 0 to 255
             temp = dark / 255.0 * resolution
             if temp > resolution * 0.37:
