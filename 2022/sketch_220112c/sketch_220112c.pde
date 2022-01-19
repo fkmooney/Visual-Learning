@@ -5,7 +5,7 @@
 //M == straight or curly lines
 
 
-final String inputPath = "delorien.jpg";
+final String inputPath = "face.jpg";
 int particelNum = 5000, speed = 800;
 boolean showImage = false;
 
