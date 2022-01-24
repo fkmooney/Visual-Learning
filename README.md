@@ -33,7 +33,7 @@ Recreating an original drawing from years back
 
 [sketch_220121b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220121b) 
 
-Recreating an original drawing from years back
+Playing with circle packing
 
 ---
 
