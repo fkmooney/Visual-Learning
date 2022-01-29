@@ -25,11 +25,11 @@ sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
 
 henri mattise | kazimir malevich | richard tuttle | james hugonin | athos bulcão
 <p float="left">
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108b/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108a/0002.pngg" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230e/combo.pngg" width="185" >
 </p>
 
 
