@@ -32,10 +32,14 @@ henri mattise | kazimir malevich | richard tuttle | james hugonin | athos bulcã
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230e/output2.png" width="185" >
 </p>
 
-
----
-
 mark rothko | frieder nake | bernardo fontes | alexandre villares | mike joyce
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211224c/0604.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211219e/000000376.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230d/00000002.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_2020_03_08b/0764.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/output2.png" width="185" >
+</p>
 
 ---
 
