@@ -5,12 +5,14 @@
 each images is inspitred by a particular artist, some by specific works, and recreated using less than 300 lines of pythong and processing.
 
 ---
-
-agnes martin
-georg nees
-ad reindhart
-robert ryman
-richard avedon
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220107c/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211219a/0771.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119a/ouput.png" width="185" >
+</p>
+agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
 
 ---
 <p float="left">
@@ -23,81 +25,47 @@ richard avedon
 sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
 
 ---
-
-mattise
-malevich
-richard tuttle
-james hugonin
-athos bulcão
-
----
-
-mark rothko
-frieder nake
-bernardo fontes
-alexandre villares
-mike joyce
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="185" >
+</p>
+henri mattise | kazimir malevich | richard tuttle | james hugonin | athos bulcão
 
 ---
 
-yayoi kusama
-gerhard richter
-jenny holzer
-barbara kruger
-ellsworth kelly
+mark rothko | frieder nake | bernardo fontes | alexandre villares | mike joyce
 
 ---
 
-carmen herra
-dan flavin
-andy warhol
-donald judd
-eva hesse
+yayoi kusama | gerhard richter | jenny holzer | barbara kruger | ellsworth kelly
 
 ---
 
-brice marden
-frank stella
-walter de maria
-richard serra
-dan graham
+carmen herra | dan flavin | andy warhol | donald judd | eva hesse
 
 ---
 
-anne truit
-ann veronica janssens
-regine schumann
-joan miro
-leon polk smith
+brice marden | frank stella | walter de maria | richard serra | dan graham
 
 ---
 
-yves klein
-lawrence weiner
-yoko ono
-john baldassari
-douglas huebler
+anne truit | ann veronica janssens | regine schumann | joan miro | leon polk smith
 
 ---
 
-on kawara
-piero manzoni
-douglas huebler
-hans haacke
-mel bochner
+yves klein | lawrence weiner | yoko ono | john baldassari | douglas huebler
+
+---
+
+on kawara | piero manzoni | douglas huebler | hans haacke | mel bochner
 
 --- 
 
-sophie calle
-bruce nauman
-jasper johns
-marcel duchamp
-mona hatoum
+sophie calle | bruce nauman | jasper johns | marcel duchamp | mona hatoum
 
 ---
 
-françois morellet
-felix gonzalez-torres
-carl andre
-damien hirst
-cy twombly
+françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twombly
