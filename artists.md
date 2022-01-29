@@ -2,7 +2,7 @@
 
 #### a collection of great (and personal favorite) art recreated using computer code
 
-each images is inspitred by a particular artist, some by specific works, and recreated using less than 300 lines of pythong and processing.
+each images is inspitred by a particular artist, some by specific works, and recreated using less than 200 lines of pythong and processing.
 
 ---
 agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
