@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220128d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220128d) 
 
-More playing with tesselations
+Creating The Shining carpet pattern with a turtle-like method
 
 ---
 
