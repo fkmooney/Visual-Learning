@@ -28,8 +28,8 @@ henri mattise | kazimir malevich | richard tuttle | james hugonin | athos bulcã
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108b/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108a/0002.pngg" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230e/combo.pngg" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220108a/0002.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230e/combo.png" width="185" >
 </p>
 
 
