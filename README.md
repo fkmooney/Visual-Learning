@@ -454,7 +454,7 @@ A revised cover design
 
 [sketch_220102a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220102a) 
 
-A revised cover design
+A revised cover design inspired by Mike Joyce
 
 ---
 
