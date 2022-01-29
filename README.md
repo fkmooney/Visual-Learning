@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129e/output.png" width="600" >
+
+[sketch_220129e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129e) 
+
+Inspired by Ad Reinhardt's Abstract Painting (1962)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129d/output.png" width="600" >
+
+[sketch_220129d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129d) 
+
+Inspired by Robert Ryman Untitled (1965)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129b/output.png" width="600" >
 
 [sketch_220129b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129b) 
