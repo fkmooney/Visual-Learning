@@ -14,11 +14,11 @@ richard avedon
 
 ---
 <p float="left">
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="200" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="200" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="200" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="200" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="200" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="175" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="175" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="175" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="175" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="175" >
 </p>
 sol lewitt 
 alexander calder 
