@@ -13,6 +13,23 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129b/output.png" width="600" >
+
+[sketch_220129b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129b) 
+
+Inspired by Sol LeWitt's Wall Drawing #370 (1982), creating with masking method
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="600" >
+
+[sketch_220129a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129a) 
+
+Inspired by Sol LeWitt's A Square Divided Horizontally and Vertically into Four Equal Parts, Each with a Different Direction of Alternating Parallel Bands of Lines
+(1982), creating with clipping method
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220128e/output.png" width="600" >
 
 [sketch_220128e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220128e) 
