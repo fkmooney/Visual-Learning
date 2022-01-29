@@ -10,11 +10,10 @@ each images is inspitred by a particular artist, some by specific works, and rec
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211219a/0771.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220109b/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119a/ouput.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119a/ouput.png" height="185" >
 </p>
 agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
 
----
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="185" >
@@ -24,7 +23,6 @@ agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
 </p>
 sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
 
----
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230b/cover.png" width="185" >
