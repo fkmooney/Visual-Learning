@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220128e/output.png" width="600" >
+
+[sketch_220128e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220128e) 
+
+Creating The Shining carpet pattern with another method
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220128d/output.png" width="600" >
 
 [sketch_220128d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220128d) 
