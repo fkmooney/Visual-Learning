@@ -20,11 +20,7 @@ richard avedon
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211225a/0260.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="185" >
 </p>
-sol lewitt 
-alexander calder 
-vera molner
-josef albers
-piet mondrian
+sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
 
 ---
 
