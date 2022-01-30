@@ -23,7 +23,7 @@ sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220111b/output.png" width="185" >
 </p>
 
-sheerie levine | kazimir malevich | richard tuttle | james hugonin | athos bulcão
+sherrie levine | kazimir malevich | richard tuttle | james hugonin | athos bulcão
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220110a/output.png" width="185" >
