@@ -7,13 +7,21 @@ def draw():
 
     for x in range(0,width,iter):
         for y in range(0, height,iter):
-            clip(x,y, iter,iter)
+            push()
             noStroke()
             fill(255,255,255)
-            rnd = random(-3,3)
-            square(x+3+ rnd, y+3+ rnd, iter-6) 
+            rx = random(-1,1)
+            ry = random(-1,1)
+            rect(x+rx, y+ ry,iter+1, iter-3) 
+            pop()
     
-    filter(BLUR, 7)
+    noClip()
+    filter(BLUR, 6)
+    
+    noFill()
+    stroke(205)
+    strokeWeight(10)
+    square(0,0,width)
     noLoop()
     
 def keyPressed():
