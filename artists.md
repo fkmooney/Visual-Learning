@@ -1,6 +1,6 @@
 # modern and contemporary art recoded
 
-#### a collection of great (and personal favorite) art recreated using computer code
+#### a collection of artworks recreated using computer code
 
 each images is inspitred by a particular artist, some by specific works, and recreated using less than 200 lines of pythong and processing.
 
