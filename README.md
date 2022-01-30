@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129f/output.png" width="600" >
+
+[sketch_220129f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129f) 
+
+Inspired by Sherrie Levine's After Duchamp from Meltdown (1989)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129e/output.png" width="600" >
 
 [sketch_220129e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220129e) 
