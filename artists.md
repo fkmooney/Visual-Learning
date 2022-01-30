@@ -1,8 +1,6 @@
 # modern and contemporary art recoded
 
-#### a collection of artworks recreated using computer code
-
-each images is inspitred by a particular artist, some by specific works, and recreated using less than 200 lines of pythong and processing.
+#### a collection of images, each inspitred by a particular artist, some by specific works, and recreated using less than 200 lines of pythong and processing code.
 
 ---
 agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
