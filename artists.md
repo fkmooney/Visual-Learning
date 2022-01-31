@@ -3,13 +3,13 @@
 #### a collection of images, each inspitred by a particular artist and recreated using less than 200 lines of python/processing code.
 
 ---
-agnes martin | georg nees | ad reindhart | robert ryman | richard avedon
+agnes martin | georg nees | ad reindhart | robert ryman | franz kline
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220107c/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211219a/0771.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129e/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220129d/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220119a/ouput.png" height="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220126a/output.png" height="185" >
 </p>
 
 sol lewitt | alexander calder | vera molner | josef albers | piet mondrian
