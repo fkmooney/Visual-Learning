@@ -122,6 +122,8 @@ Playing with tesselations
 
 [sketch_220126a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220126a) 
 
+Thinking about Franz Kline
+
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220125a/output.png" width="600" >
