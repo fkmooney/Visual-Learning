@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220201b/output.png" width="600" >
+
+[sketch_220201b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220201b) 
+
+Inspired by Malevich's Suprematist Composition (with Eight Red Rectangles) 1915
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220201a/output.png" width="600" >
 
 [sketch_220201a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220201a) 
