@@ -1,31 +1,25 @@
 def setup():
     size(600, 600)
-    background(255)
+    background(245)
     strokeWeight(1)
-    randomDisplacement = 10
-    rotateMultiplier = 2
+
+def draw():
 
     def singleline(x, y):
         line(x, y, x, y+200)
 
-    for i in range(0, width, 30):
+    for i in range(5, width, 30):
 
-            tplusOrMinus = random(0, 10) 
-            rplusOrMinus = random(0, 50) 
-            translateAmt = i /70 * tplusOrMinus * random(0,2) 
-            rotateAmt = i / 9  #+rplusOrMinus #* rotateMultiplier * random(0,1)
+            translateAmt = i /70 * random(20) 
+            rotateAmt = i / 9  
             
-
             pushMatrix()
             translate(i + translateAmt, 0)
-            
-            print(rotateAmt)
             rotate(radians(rotateAmt))
             singleline(0, 200)
             popMatrix()
-
-def draw():
-    b=1
+            
+    noLoop()
 
 def keyPressed():
-    saveFrame("#########.png")
+    saveFrame("output.png")
