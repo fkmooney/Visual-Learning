@@ -30,25 +30,23 @@ sherrie levine | kazimir malevich | richard tuttle | james hugonin | athos bulc√
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230e/output2.png" width="185" >
 </p>
 
-mark rothko | frieder nake | bernardo fontes | alexandre villares | mike joyce
+jenny holzer | frieder nake | bernardo fontes | alexandre villares | mike joyce
 <p float="left">
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211224c/0604.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220131a/ouput.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211219e/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211230d/00000002.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_2020_03_08b/0764.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/output2.png" width="185" >
 </p>
 
-yayoi kusama | gerhard richter | jenny holzer | barbara kruger | ellsworth kelly
+yayoi kusama | gerhard richter | mark rothko | barbara kruger | ellsworth kelly
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130b/output.png" width="185" height="185">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130a/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220131a/ouput.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211224c/0604.png" width="185" >  
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_2020_03_08b/0764.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/output2.png" width="185" >
 </p>
-
-
 
 ---
 
