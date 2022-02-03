@@ -13,11 +13,19 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203b/output.png" width="600" >
+
+[sketch_220203b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220203b) 
+
+Inspired by Carmen Herrera's Green and White (1956)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220201b/output.png" width="600" >
 
 [sketch_220201b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220201b) 
 
-Inspired by Malevich's Suprematist Composition (with Eight Red Rectangles) 1915
+Inspired by Kazimir Malevich's Suprematist Composition (with Eight Red Rectangles) (1915)
 
 ---
 
