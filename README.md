@@ -46,7 +46,7 @@ Inspired by Jenny Holzer
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130b/output.png" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130b/output2.png" width="600" >
 
 [sketch_220130b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220130b) 
 
