@@ -51,7 +51,7 @@ yayoi kusama | gerhard richter | mark rothko | barbara kruger | ellsworth kelly
 carmen herra | dan flavin | andy warhol | donald judd | eva 
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203c/output.png" width="185" >
-
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203e/output.png" width="185" >
 </p>
 
 
