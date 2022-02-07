@@ -52,7 +52,10 @@ carmen herra | dan flavin | sophie taeuber-arp | donald judd | eva hesse
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203c/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203e/output.png" width="185" >
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207a/output.png" width="185" >  
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207a/output.png" width="185" > 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207c/output.png" width="185" >
+  
+  
   
 </p>
 
