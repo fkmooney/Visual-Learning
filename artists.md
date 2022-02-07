@@ -48,10 +48,12 @@ yayoi kusama | gerhard richter | mark rothko | barbara kruger | ellsworth kelly
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220201a/output.png" width="185" >
 </p>
 
-carmen herra | dan flavin | andy warhol | donald judd | eva 
+carmen herra | dan flavin | sophie taeuber-arp | donald judd | eva hesse
 <p float="left">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203c/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220203e/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207a/output.png" width="185" >  
+  
 </p>
 
 
