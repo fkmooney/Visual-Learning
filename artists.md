@@ -62,7 +62,7 @@ carmen herra | dan flavin | donald judd | sophie taeuber-arp | eva hesse
 
 ---
 
-brice marden | james turrell | walter de maria | richard serra | dan graham
+brice marden | james turrell | walter de maria | richard serra | dan graham | frank stella
 
 ---
 
