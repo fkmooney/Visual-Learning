@@ -62,7 +62,7 @@ carmen herra | dan flavin | donald judd | sophie taeuber-arp | eva hesse
 
 ---
 
-brice marden | frank stella | walter de maria | richard serra | dan graham
+brice marden | james turrell | walter de maria | richard serra | dan graham
 
 ---
 
@@ -78,7 +78,7 @@ on kawara | piero manzoni | douglas huebler | hans haacke | mel bochner
 
 --- 
 
-sophie calle | bruce nauman | jasper johns | marcel duchamp | mona hatoum
+sophie calle | bruce nauman | jasper johns | marcel duchamp | mona hatoum 
 
 ---
 
