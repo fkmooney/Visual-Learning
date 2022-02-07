@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220207e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220207e) 
 
-Inspired by an Eva Hesse's Untitled drawing from 1967
+Inspired by an Eva Hesse untitled drawing from 1967
 
 ---
 
@@ -25,7 +25,7 @@ Inspired by an Eva Hesse's Untitled drawing from 1967
 
 [sketch_220207c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220207c) 
 
-Inspired by an Donald Judd's Untitled drawing from 1974
+Inspired by an Donald Judd untitled drawing from 1974
 
 ---
 
