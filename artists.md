@@ -44,7 +44,7 @@ yayoi kusama | gerhard richter | mark rothko | barbara kruger | ellsworth kelly
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130b/output.png" width="185" height="185">
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220130a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2021/sketch_211224c/0604.png" width="185" >  
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220131b/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220131b/output2.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220201a/output.png" width="185" >
 </p>
 
