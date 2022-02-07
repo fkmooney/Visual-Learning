@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207e/output.png" width="600" >
+
+[sketch_220207e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220207e) 
+
+Inspired by an Eva Hesse's Untitled drawing from 1967
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207c/output.png" width="600" >
 
 [sketch_220207c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220207c) 
