@@ -55,14 +55,14 @@ carmen herra | dan flavin | donald judd | sophie taeuber-arp | eva hesse
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207c/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207a/output.png" width="185" > 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220207e/output.png" width="185" >
-
-  
 </p>
 
-
----
-
 brice marden | james turrell | walter de maria | richard serra | dan graham | frank stella
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220209a/output.png" width="185" >
+
+</p>
+
 
 ---
 
