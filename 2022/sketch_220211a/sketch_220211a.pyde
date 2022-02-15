@@ -8,106 +8,55 @@ def setup():
 
 def draw():
     background(255,0,95)
-    lights()
-    ambientLight(300, 0, 35)
-    #rotateX(radians(-15))
-    translate(0, -140,150)
-
-    """spotLight(300, 0, 35, 
-              300, 10, 100, 
-              0, 1, -1, 
-              PI*1, .01)"""
+    rotateX(radians(-6))
+    translate(0, -170,190)
 
     fill(255,0,95)
     stroke(30)
     strokeWeight(1)
 
-    beginShape() # bottom
-    vertex(0, 600, -1200)
-    vertex(600, 600, -1200)
-    vertex(600, 600, 200)
-    vertex(0,  600, 200, )
-    vertex(0, 600, -1200)
-    endShape()
-    
-    fill(255,0,95)
-
-    beginShape() # left
-    vertex(0, 0, 0)
-    vertex(0, 0, -1200)
-    vertex(0, 600, -1200)
-    vertex(0, 600, 0)
-    vertex(0, 0, 0)
-    endShape()    
-
-    beginShape() # right
-    vertex(600, 0, -1200)
-    vertex(600, 0, 0)
-    vertex(600, 600, 0)
-    vertex(600, 600, -1200)
-    vertex(600, 0, -1200)
-    endShape()     
-
-    beginShape() # top
-    vertex(0, 250, 200)
-    vertex(600, 250, 200)
-    vertex(600, 250, -1200, )
-    vertex(0,  250, -1200)
-    vertex(0, 250,  200)
-    endShape()
-
-    fill(255,0,60)
-    beginShape() # back
-    vertex(0, 0, -1200)
-    vertex(600, 0, -1200)
-    vertex(600, 600, -1200)
-    vertex(0, 600, -1200)
-    vertex(0, 0,  -1200)
-    endShape()
-    
-    fill(255,0,95)
     translate(100,590, 0)    
-    for zz in range(0, 25):
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(65))
         drawCylinder(10, 70)      
         popMatrix()
         
-    translate(80,0, 1000)    
-    for zz in range(0, 25):
+    translate(80,0, 2000)    
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(-65))
         drawCylinder(10, 70)      
         popMatrix()   
 
-    translate(80,0, 1000)    
-    for zz in range(0, 25):
+    translate(80,0, 2000)    
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(65))
         drawCylinder(10, 70)      
         popMatrix() 
         
-    translate(80,0, 1000)    
-    for zz in range(0, 25):
+    translate(80,0, 2000)    
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(-65))
         drawCylinder(10, 70)      
         popMatrix() 
 
-    translate(80,0, 1000)    
-    for zz in range(0, 25):
+    translate(80,0, 2000)    
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(65))
         drawCylinder(10, 70)      
         popMatrix() 
         
-    translate(80,0, 1000)    
-    for zz in range(0, 25):
+    translate(80,0, 2000)    
+    for zz in range(0, 50):
         translate(0, 0, -40)
         pushMatrix()
         rotateY(radians(-65))
@@ -121,7 +70,6 @@ def drawCylinder(r, h):
     sides = 6
     angle = 360 / sides
     halfHeight = h / 2
-    fill(255,0,95)
     
     # draw top of the tube
     beginShape()
