@@ -13,11 +13,19 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220218a/output.png" width="600" >
+
+[sketch_220218a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220218a) 
+
+Inspired by Dan Graham's Scheme for Magazine Page 'Adertisement' (1965)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/serra_squares/output.png" width="600" >
 
 [serra_squares](https://github.com/fkmooney/visual-learning/tree/master/2022/serra_squares) 
 
-Inspired by Richard Backstop II (2021_
+Inspired by Richard Backstop II (2021)
 
 ---
 
