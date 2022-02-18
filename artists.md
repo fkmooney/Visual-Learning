@@ -63,12 +63,8 @@ brice marden | james turrell | walter de maria | richard serra | dan graham
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220210b/output.png" width="185" > 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220211a/output2.png" width="185" >  
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/chalk_type_brush/output.png" width="185" >  
-  
-
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220218a/output.png" width="185" >  
 </p>
-
-
----
 
 anne truit | ann veronica janssens | regine schumann | joan miro | leon polk smith
 
