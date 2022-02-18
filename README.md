@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/chalk_type_brush/output.png" width="600" >
+
+[chalk_type_brush](https://github.com/fkmooney/visual-learning/tree/master/2022/chalk_type_brush) 
+
+Inspired by Richard Serra's HEIMAEY I (BERSWORDT/WALLRABE 82) (1991)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220211a/output2.png" width="600" >
 
 [sketch_220211a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220211a) 
