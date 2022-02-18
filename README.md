@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/serra_squares/output.png" width="600" >
+
+[serra_squares](https://github.com/fkmooney/visual-learning/tree/master/2022/serra_squares) 
+
+Inspired by Richard Backstop II (2021_
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/chalk_type_brush/output.png" width="600" >
 
 [chalk_type_brush](https://github.com/fkmooney/visual-learning/tree/master/2022/chalk_type_brush) 
