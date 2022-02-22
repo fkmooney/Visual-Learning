@@ -67,6 +67,13 @@ brice marden | james turrell | walter de maria | richard serra | dan graham
 </p>
 
 anne truit | ann veronica janssens | regine schumann | joan miro | leon polk smith
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221a/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220210d/output.png" width="185" > 
+</p>
+
+
+
 
 ---
 
