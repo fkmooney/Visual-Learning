@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221b/output.png" width="600" >
+
+[sketch_220221b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221b) 
+
+Inspired by Anne Truit's Truitt '66 (1966)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221a/output.png" width="600" >
+
+[sketch_220221a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221a) 
+
+Inspired by Anne Truit's Scheme for Magazine Page 'Adertisement' (1965)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220218a/output.png" width="600" >
 
 [sketch_220218a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220218a) 
