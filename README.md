@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220221b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221b) 
 
-Inspired by Anne Truit's Truitt '66 (1966)
+Inspired by Anne Truit
 
 ---
 
@@ -25,7 +25,7 @@ Inspired by Anne Truit's Truitt '66 (1966)
 
 [sketch_220221a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221a) 
 
-Inspired by Anne Truit's Scheme for Magazine Page 'Adertisement' (1965)
+Inspired by Anne Truit's Truitt '66 (1966)
 
 ---
 
