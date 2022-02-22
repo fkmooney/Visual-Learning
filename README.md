@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221f/output.png" width="600" >
+
+[sketch_220221f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221f) 
+
+Inspired by Dan Flavin's in honor of Harold Joachim in pink, yellow, blue and green fluorescent light 8′ high and wide (1977)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221d/output.png" width="600" >
 
 [sketch_220221d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220221d) 
