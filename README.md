@@ -17,7 +17,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220223b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223b) 
 
-Inspired by Regine Schumann's Colormirror Moons No. 11 (2020)
+Inspired by Joan Miro's Bleu II (1961)
 
 ---
 
@@ -25,7 +25,7 @@ Inspired by Regine Schumann's Colormirror Moons No. 11 (2020)
 
 [sketch_220223b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223b) 
 
-Inspired by Regine Schumann's Colormirror Moons No. 11 (2020)
+Inspired by Joan Miro's Bleu I (1961)
 
 ---
 
