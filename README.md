@@ -13,6 +13,38 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223i/output.png" width="600" >
+
+[sketch_220223i](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223i) 
+
+Inspired by Leon Polk Smith's No.7809 (1978)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223h/output.png" width="600" >
+
+[sketch_220223h](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223h) 
+
+Inspired by Leon Polk Smith's Werkübersicht C 1949–87 (1987)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223g/output.png" width="600" >
+
+[sketch_220223g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223g) 
+
+Inspired by Leon Polk Smith's Werkübersicht C 1949–876 (1987)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223f/output.png" width="600" >
+
+[sketch_220223f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223f) 
+
+Inspired by Richard Serra's Tracks #2 (2007)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223b/output2.png" width="600" >
 
 [sketch_220223b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223b) 
