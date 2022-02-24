@@ -72,8 +72,8 @@ anne truit | ann veronica janssens | regine schumann | joan miro | leon polk smi
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221d/output.png" width="185" > 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220221h/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223b/output.png" width="185" >
+  <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223g/output.png" width="185" >
 </p>
-
 
 ---
 
