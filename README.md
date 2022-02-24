@@ -13,6 +13,24 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220224g/output.png" width="600" >
+
+[sketch_220224g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224g) 
+
+Inspired by Yves Klein's Untitled Blue Monochrome (1959)
+
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220224d/output1.png" width="600" >
+
+[sketch_220224d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224d) 
+
+Inspired by Yves Klein's Barbara (ANT 113) (1960)
+
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220224c/48542.png" width="600" >
 
 [sketch_220224c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224c) 
