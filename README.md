@@ -48,7 +48,7 @@ Inspired by Leon Polk Smith's No.7809 (1978)
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223h/output.png" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223h/output1.png" width="600" >
 
 [sketch_220223h](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223h) 
 
