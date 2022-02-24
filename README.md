@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220224c/48542.png" width="600" >
+
+[sketch_220224c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224c) 
+
+Inspired by Leon Polk Smith's Leon Polk Smith's Werkübersicht D 1949–87 (1987)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220223i/output.png" width="600" >
 
 [sketch_220223i](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223i) 
