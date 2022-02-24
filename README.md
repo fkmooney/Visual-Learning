@@ -18,6 +18,7 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 [sketch_220224c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224c) 
 
 Inspired by Leon Polk Smith's Leon Polk Smith's Werkübersicht D 1949–87 (1987)
+Utilizes a scalable grid that can be drawn on
 
 ---
 
