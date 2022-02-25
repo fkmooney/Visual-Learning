@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220225c/34308.png" width="600" >
+
+[sketch_220225c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220225c) 
+
+Inspired by Leon Polk Smith's Center Columns, Blue-White (1946)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220225a/output.png" width="600" >
+
+[sketch_220225a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220225a) 
+
+Inspired by Leon Polk Smith's Untitled (1968)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220224g/output.png" width="600" >
 
 [sketch_220224g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224g) 
@@ -35,7 +51,7 @@ Inspired by Yves Klein's Barbara (ANT 113) (1960)
 
 [sketch_220224c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220224c) 
 
-Inspired by Leon Polk Smith's Leon Polk Smith's Werkübersicht D 1949–87 (1987) <br>
+Inspired by Leon Polk Smith's Black-White Definition New York (1946) <br>
 Utilizes a scalable grid that can be drawn on
 
 ---
@@ -60,7 +76,7 @@ Inspired by Leon Polk Smith's Werkübersicht C 1949–87 (1987)
 
 [sketch_220223g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220223g) 
 
-Inspired by Leon Polk Smith's Werkübersicht C 1949–876 (1987)
+Inspired by Leon Polk Smith's Black and White Repeat (1952)
 
 ---
 
