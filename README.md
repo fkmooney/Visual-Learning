@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220225b/output.png" width="600" >
+
+[sketch_220225b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220225b) 
+
+Inspired by Joan Miro's The Gold of the Azure
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220225c/34308.png" width="600" >
 
 [sketch_220225c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220225c) 
