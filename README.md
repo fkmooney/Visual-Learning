@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220226e/30610.png" width="600" >
+
+[sketch_220226e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220226e) 
+
+Inspired by Leon Polk Smith's Accent Black (1949)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220226d/47507.png" width="600" >
+
+[sketch_220226d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220226d) 
+
+Inspired by Leon Polk Smith's Untitled (1945)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220226a/output.png" width="600" >
 
 [sketch_220226a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220226a) 
