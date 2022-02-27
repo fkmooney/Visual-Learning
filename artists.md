@@ -83,7 +83,7 @@ yves klein | lawrence weiner | yoko ono | john baldassari | douglas huebler
 
 ---
 
-on kawara | piero manzoni | douglas huebler | hans haacke | mel bochner
+on kawara | piero manzoni | frank stella | hans haacke | mel bochner
 
 --- 
 
@@ -95,4 +95,4 @@ françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twom
 
 ---
 
-frank stella
+
