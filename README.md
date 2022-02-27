@@ -13,6 +13,22 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220227c/output.png" width="600" >
+
+[sketch_220227c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220227c) 
+
+Inspired by Lawrence Weiner's HERE TO THERE (2016)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220227b/output.png" width="600" >
+
+[sketch_220227b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220227b) 
+
+Inspired by Lawrence Weiner's PLACED ON THE TIP OF A WAVE (2009)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220226e/30610.png" width="600" >
 
 [sketch_220226e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220226e) 
