@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220228c/output.png" width="600" >
+
+[sketch_220228c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220228c) 
+
+Inspired by John Baldassari's I Will Not Make Any More Boring Art (1971)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220228g/sketch_220113c/output.png" width="600" >
 
 [sketch_220228g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220228g) 
