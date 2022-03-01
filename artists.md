@@ -81,6 +81,7 @@ yves klein | lawrence weiner | yoko ono | john baldassari | douglas huebler
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220227c/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220228g/output.png" width="185" >
   <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220228c/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/raw/main/2022/sketch_220301a/output.png" width="185" >
 </p>
 
 
