@@ -13,11 +13,11 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220228c/output.png" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220229a/output.png" width="600" >
 
-[sketch_220228c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220228c) 
+[sketch_220229a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220229a) 
 
-Inspired by John Baldassari's I Will Not Make Any More Boring Art (1971)
+Inspired by Eric Davidson's Paths (2021)
 
 ---
 
