@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220301a/output.png" width="600" >
+
+[sketch_220301a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220301a) 
+
+Inspired by Douglas Huebler's Variable Piece #70: 1971 (In Process) Global, Crocodile Tears: Great Corrector (Mondrian VI) (1990)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220229a/output.png" width="600" >
 
 [sketch_220229a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220229a) 
