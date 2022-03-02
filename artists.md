@@ -84,10 +84,13 @@ yves klein | lawrence weiner | yoko ono | john baldassari | douglas huebler
 <img src="https://github.com/fkmooney/Visual-Learning/raw/main/2022/sketch_220301a/output.png" width="185" >
 </p>
 
-
----
-
 on kawara | piero manzoni | frank stella | hans haacke | mel bochner
+<p float="left">
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220302a/output.png" width="185" >
+
+</p>
+
+
 
 --- 
 
