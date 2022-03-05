@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304a/output.png" width="600" >
+
+[sketch_220304a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304a) 
+
+Inspired by Piero Manzoni's Socle du Monde (1961)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220302a/output.png" width="600" >
 
 [sketch_220302a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220302a) 
