@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304c/output.png" width="600" >
+
+[sketch_220304c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304c) 
+
+Inspired by Frank Stella's Ifafa II  from his V Series (1968)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304a/output.png" width="600" >
 
 [sketch_220304a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304a) 
