@@ -3,12 +3,12 @@
 def setup():
     size(600, 600, P3D)
     background(245)
-    frameRate(10)
+    frameRate(2)
 
 def draw():
     t = millis()/500
-    l = 6 #Spacing between points
-    n = 51 #Number of points
+    l = 2 #Spacing between points
+    n = 150 #Number of points
     background(245)
     camera(width/2, height-100, 400, width/2, height/2, 0, 0, 1, 0)
     lights()
@@ -34,6 +34,6 @@ def draw():
         for j in range(n-1):
             v = points[j+n*i]
             stroke(127+v.z*1.5, 127+v.z*1.5, 255)
-            strokeWeight(20)
+            strokeWeight(1)
             vertex(v.x, v.y, v.z)
         endShape()
