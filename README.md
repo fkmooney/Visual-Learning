@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220306a/output.png" width="600" >
+
+[sketch_220306a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220306a) 
+
+Inspired by Hans Haacke's Blue Sail (1964-1965)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304g/output.png" width="600" >
 
 [sketch_220304g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304g) 
