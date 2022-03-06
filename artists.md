@@ -89,6 +89,7 @@ on kawara | piero manzoni | frank stella | hans haacke | mel bochner
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220302a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304a/output.png" width="185" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304c/output.png" width="185" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220306a/output1.png" width="185" >
 </p>
 
 
