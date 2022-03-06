@@ -13,11 +13,43 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304g/output.png" width="600" >
+
+[sketch_220304g](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304g) 
+
+Inspired by Frank Stella's V Series (1968)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304f/output.png" width="600" >
+
+[sketch_220304f](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304f) 
+
+Inspired by Frank Stella's V Series (1968)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304e/output.png" width="600" >
+
+[sketch_220304e](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304e) 
+
+Inspired by Frank Stella's The Marriage of Reason and Squalor II (1959)
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304d/output.png" width="600" >
+
+[sketch_220304d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304d) 
+
+Inspired by Frank Stella's Black Study (1968)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220304c/output.png" width="600" >
 
 [sketch_220304c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220304c) 
 
-Inspired by Frank Stella's Ifafa II  from his V Series (1968)
+Inspired by Frank Stella's V Series (1968)
 
 ---
 
