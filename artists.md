@@ -101,5 +101,5 @@ françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twom
 
 ---
 
-angela bulloch | louise lawler | stephen prina | robert barry | jan dibbets
+angela bulloch | louise lawler | stephen prina | robert barry | jan dibbets | mark lombardi
 
