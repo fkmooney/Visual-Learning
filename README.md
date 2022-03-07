@@ -13,6 +13,14 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220307a/output.png" width="600" >
+
+[sketch_220307a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220307a) 
+
+Inspired by Mel Bochner's Range (1979)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220306a/output1.png" width="600" >
 
 [sketch_220306a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220306a) 
