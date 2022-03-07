@@ -97,8 +97,9 @@ sophie calle | bruce nauman | jasper johns | marcel duchamp | mona hatoum
 
 ---
 
-françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twombly
+françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twombly 
 
 ---
 
+angela bulloch | louise lawler | stephen prina | robert barry
 
