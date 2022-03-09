@@ -95,11 +95,10 @@ on kawara | piero manzoni | frank stella | hans haacke | mel bochner
 
 sophie calle | bruce nauman | jasper johns | marcel duchamp | mona hatoum 
 
----
-
 françois morellet | felix gonzalez-torres | carl andre | damien hirst | cy twombly 
 
----
+angela bulloch | louise lawler | stephen prina | robert barry | jan dibbets
 
-angela bulloch | louise lawler | stephen prina | robert barry | jan dibbets | mark lombardi
+mark lombardi | robert motherwell | helen frankenthaler | richard diebenkorn | morris louis
+
 
