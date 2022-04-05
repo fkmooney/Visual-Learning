@@ -17,6 +17,8 @@ Tools: tiling, displacement, repetition, recursion, algorithms
 
 [sketch_220405a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220405a) 
 
+Inspired by Alexandre B A Villares
+
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220308c/output.png" width="600" >
