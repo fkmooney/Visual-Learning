@@ -13,6 +13,30 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220528d/output.png" width="600" >
+
+[sketch_220528d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220528d) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220528c/output.png" width="600" >
+
+[sketch_220528c](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220528c) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220528a/output.png" width="600" >
+
+[sketch_220528a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220528a) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220528b/output.png" width="600" >
+
+[sketch_220528b](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220528b) 
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220408a/output.png" width="600" >
 
 [sketch_220408a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220408a) 
