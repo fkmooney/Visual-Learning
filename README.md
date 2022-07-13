@@ -13,6 +13,22 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220713a/output.png" width="600" >
+
+[sketch_220713a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220713a) 
+
+Inspired by Antonio Maluf
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220712a/output.png" width="600" >
+
+[sketch_220712a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220712a) 
+
+Inspired by Antonio Maluf
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220528d/output.png" width="600" >
 
 [sketch_220528d](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220528d) 
