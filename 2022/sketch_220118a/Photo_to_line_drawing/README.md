@@ -1,6 +1,5 @@
 # linedraw
 Convert images to vectorized line drawings for plotters.
-![Alt text](./screenshots/1.png?raw=true "")
 
 - Exports polyline-only svg file with optimized stroke order for plotters;
 - Sketchy style powered by Perlin noise;
