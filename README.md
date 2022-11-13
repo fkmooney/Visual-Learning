@@ -13,6 +13,16 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC1.jfif" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC2.jfif" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC3.jfif" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC4.jfif" width="600" >
+
+Prompt: a print by ralph steadman, manhattan landscape, trending on artstation <br>
+[Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/StableDiffusion - 2022-11-13.png" width="600" >
 
 [Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
