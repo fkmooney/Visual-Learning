@@ -13,19 +13,19 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALLE_2022-11-13.png" width="600" >
-
-Created with Dall-E
-
----
-
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALLE_2022-11-13v3.png" width="600" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALL·E 2022-11-13v3.png" width="600" >
 
 Created with Dall-E
 
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALLE_2022-11-13v2.png" width="600" >
+
+Created with Dall-E
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALLE_2022-11-13.png" width="600" >
 
 Created with Dall-E
 
