@@ -19,6 +19,12 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/brooklyn.png" width="600" >
+
+[Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/DALL·E 2022-11-13v3.png" width="600" >
 
 Created with Dall-E
