@@ -21,6 +21,14 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/brooklyn.png" width="600" >
 
+Prompt: a drawing by kim jung gi, brooklyn landscape, trending on artstation <br>
+Other fun prompts:<br>
+- a line drawing by al hirschfield, venice landscape
+- neon sunset, octane render, dynamic lighting, hyperrealistic, by Alena Aenami, Artstation
+- notification icon of a spaceship next to a red dot, clear lines, vector, png
+- a line drawing by ralph steadman, venice landscape
+- a drawing by al hirschfeld, caricature of obama
+- a glass and concrete house designed by richard meyer overlooking the alps<br>
 [Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
 
 ---
