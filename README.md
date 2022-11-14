@@ -37,6 +37,7 @@ Other fun prompts:<br>
 - neon sunset, octane render, dynamic lighting, hyperrealistic, by Alena Aenami, Artstation
 - notification icon of a spaceship next to a red dot, clear lines, vector, png
 - a drawing by al hirschfeld, caricature of obama
+- Colorful minimalist geometric seamless pattern 
 - a glass and concrete house designed by richard meyer overlooking the alps<br>
 [Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
 
