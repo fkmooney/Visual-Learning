@@ -13,6 +13,12 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/josef albers frosty the snowman.png" width="600" >
+
+[Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
+
+---
+
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC1.jfif" width="600" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC2.jfif" width="600" >
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/NYC3.jfif" width="600" >
