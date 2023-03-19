@@ -78,7 +78,7 @@ Learning Py5
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/morray pattern.jpg" width="700" >
 
-[morray pattern](https://github.com/fkmooney/visual-learning/tree/master/2023/Learning_py5) 
+[moire pattern](https://github.com/fkmooney/visual-learning/tree/master/2023/Learning_py5) 
 
 Learning Py5
 
