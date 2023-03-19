@@ -34,4 +34,3 @@ A revised cover design inspired by Mike Joyce
 
 A revised cover design
 
----
