@@ -13,24 +13,19 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/josef albers frosty the snowman.png" width="600" >
-
-[Created with Stable Diffusion Online ](https://stablediffusionweb.com/#demo)
 
 
----
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Intro to py5/recursive polygon patterns.jpg" width="700" >
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220102a/Book_Jacket_orange.jpg" width="700" >
+[recursive polygon patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Recursive Polygon patterns.ipynb) 
 
-[sketch_220102a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220102a) 
-
-A revised cover design inspired by Mike Joyce
+Learning Py5
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2022/sketch_220101a/Book_Jacket.jpg" width="700" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Intro to py5/swirly patterns.jpg" width="700" >
 
-[sketch_220101a](https://github.com/fkmooney/visual-learning/tree/master/2022/sketch_220101a) 
+[swirly patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Swirly patterns.ipynb) 
 
-A revised cover design
+Learning Py5
 
