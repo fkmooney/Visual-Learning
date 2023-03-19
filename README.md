@@ -11,21 +11,25 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 ## [2021](2021.md) | [2022](2022.md) | 2023
 
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/morray pattern.jpg" width="700" >
 
-
-
-
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Intro to py5/recursive polygon patterns.jpg" width="700" >
-
-[recursive polygon patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Recursive Polygon patterns.ipynb) 
+[morray pattern](https://github.com/fkmooney/visual-learning/tree/master/2023/Learning_py5) 
 
 Learning Py5
 
 ---
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Intro to py5/swirly patterns.jpg" width="700" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/recursive polygon patterns.jpg" width="700" >
 
-[swirly patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Swirly patterns.ipynb) 
+[recursive polygon patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Learning_py5) 
+
+Learning Py5
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/swirly patterns.jpg" width="700" >
+
+[swirly patterns](https://github.com/fkmooney/visual-learning/tree/master/2023/Learning_py5) 
 
 Learning Py5
 
