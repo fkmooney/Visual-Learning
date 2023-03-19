@@ -2,9 +2,10 @@
 
 #### a gallery of images generated through learning code
 
-This is a collection of images generated while learning how to code visualizations. Some are based on tutorials or works of others to figure out certain concepts, others are original.
+This is a collection generated while learning how to code visualizations. Some images are based on tutorials or works of others to figure out specific concepts, others are original.
 
 Materials: line, curves, shapes, colors, inputs (photos)
+
 Methods: tiling, displacement, repetition, recursion, algorithms
 
 ---
