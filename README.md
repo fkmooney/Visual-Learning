@@ -95,7 +95,7 @@ Learning Py5
 
 Learning Py5
 
----
+---   
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/recursive polygon patterns.jpg" width="700" >
 
