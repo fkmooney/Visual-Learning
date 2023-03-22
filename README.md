@@ -17,8 +17,6 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 
 [2023-03-21](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-03-21) 
 
-
-
 ---
 
 <img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/Learning_py5/colorful tree branches.jpg" width="700" >
