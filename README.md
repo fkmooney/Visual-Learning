@@ -13,9 +13,34 @@ Methods: tiling, displacement, repetition, recursion, algorithms
 ## [2021](2021.md) | [2022](2022.md) | 2023
 
 
-<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-03-22/output.jpg" width="700" >
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-04-15/output-15.jpeg" width="700" >
 
-[2023-03-22](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-03-22) 
+[2023-04-15](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-04-15) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-04-14/output-14.jpeg" width="700" >
+
+[2023-04-14](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-04-14) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-04-13/output-13.jpeg" width="700" >
+
+[2023-04-13](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-04-13) 
+
+---
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-04-12/output-12.jpeg" width="700" >
+
+[2023-04-12](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-04-12) 
+
+---
+
+
+<img src="https://github.com/fkmooney/Visual-Learning/blob/main/2023/2023-04-11/output-11.jpeg" width="700" >
+
+[2023-04-11](https://github.com/fkmooney/visual-learning/tree/master/2023/2023-04-11) 
 
 ---
 
